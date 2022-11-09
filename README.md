@@ -8,7 +8,7 @@ Machine Learning based Vehicle Performance Analyzer
 
 |NAME                | ROLL NUMBER     | DEPARTMENT  | ASSIGNMENT | 
 |-------------------:|:---------------:|:-----------:|:----------:|
-|ADITHYA R           |  2116190801004  |     ECE     | [LINK](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/tree/main/Assignment/TM1-Adithya R)   |
+|ADITHYA R           |  2116190801004  |     ECE     | [LINK](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/tree/main/Assignment/TM1-Adithya%20R)   |
 |AKASH N             |  2116190801008  |     ECE     | [LINK](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/tree/main/Assignment/TL-Akash%20N)   | 
 |ARAVIND G           |  2116190801011  |     ECE     | [LINK](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/tree/main/Assignment/TM2-Aravind%20G)   |
 |CHELLADURAI PRASANTH|  2116190801026  |     ECE     | [LINK]   |
