@@ -30,3 +30,16 @@ The performance analysis of the car is based on the engine type, no of engine cy
         - [x] [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Ideation%20Phase/Literature%20Survey/IBM(literature%20survey).pdf)
         - [x] [Emapthy Map](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Ideation%20Phase/Empathymap/EMPATHYMAP.pdf)
         - [x] [Ideation](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Ideation%20Phase/Ideation/IBM(Ideation).pdf)
+    - Project Design Phase I
+        - [x] [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Design%20phase%201/Proposed%20Solution.pdf)
+        - [x] [Solution Fit](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Design%20phase%201/Solution%20Fit.pdf)
+        - [x] [System Architecture](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Design%20phase%201/System%20Architecture.pdf)
+    - Project Design Phase II
+        - [x] [Customer Journey Map](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Design%20Phase%202/Customer%20Journey%20Map.pdf)
+        - [x] [Dataflow Diagrams and User Stories](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Design%20Phase%202/DataFlow%20Diagram%20And%20User%20Stories.pdf)
+        - [x] [Solution Requirements](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Design%20Phase%202/Solution_Requirements.pdf)
+        - [x] [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Design%20Phase%202/Technology%20Architecture.pdf)
+
+    - Project Planning Phase
+        - [x] [Project planning](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Project%20planning/Project%20planning.pdf)
+
