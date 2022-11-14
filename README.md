@@ -41,5 +41,6 @@ The performance analysis of the car is based on the engine type, no of engine cy
         - [x] [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Design%20Phase%202/Technology%20Architecture.pdf)
 
     - Project Planning Phase
+        - [x] [Milestone and activity list](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Project%20planning/Milestone%20and%20Activity%20List.pdf)
         - [x] [Project planning](https://github.com/IBM-EPBL/IBM-Project-23777-1659929195/blob/main/Project%20planning/Project%20planning.pdf)
 
