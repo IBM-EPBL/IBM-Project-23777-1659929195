@@ -1,1 +1,2 @@
-model building pdf pending
+Reminder:
+   "Model building pdf pending"
