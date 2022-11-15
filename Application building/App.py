@@ -3,11 +3,11 @@ from flask import Flask, request, jsonify, render_template
 import pickle
 #from joblib import load
 app = Flask(__name__)
-model = pickle.load(open('decision_model.pkl', 'rb'))
+model = pickle.load(open('Decision_model.pkl', 'rb'))
 
 @app.route('/')
 def home():
-    return render_template('index.html')
+    return render_template('Index.html')
 
 @app.route('/y_predict',methods=['POST'])
 def y_predict():
@@ -32,7 +32,7 @@ def y_predict():
         pred="Very high performance with mileage " +str(prediction[0])+". You can plan for a Tour"
         
     
-    return render_template('index.html', prediction_text='{}'.format(pred))
+    return render_template('Index.html', prediction_text='{}'.format(pred))
 
 @app.route('/predict_api',methods=['POST'])
 def predict_api():
